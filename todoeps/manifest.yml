@@ -1,6 +1,6 @@
 applications:
 - name: todoepsbadri
-  host: todoepsweb
+  host: todoepswebbadri
   memory: 512M
   buildpack: https://github.com/cloudfoundry/java-buildpack
   instances: 1
