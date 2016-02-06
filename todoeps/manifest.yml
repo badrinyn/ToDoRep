@@ -1,5 +1,5 @@
 applications:
-- name: todoeps
+- name: todoepsbadri
   host: todoepsweb
   memory: 512M
   buildpack: https://github.com/cloudfoundry/java-buildpack
